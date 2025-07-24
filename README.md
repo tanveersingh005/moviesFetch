@@ -40,11 +40,6 @@ A modern, responsive movie database app built with React, Vite, Tailwind CSS, an
    npm run preview
    ```
 
-## 🌐 Deployment
-
-- **Vercel:** Import your repo and deploy (auto-detects Vite).
-- **Netlify:** Set build command to `npm run build` and publish directory to `dist`.
-- **GitHub Pages:** Use a Vite plugin for static deploy.
 
 ## 🛠️ Tech Stack
 
